@@ -1,3 +1,4 @@
+![Akshat Mohriya banner](profile_banner.png)
 # Hi, I'm Akshat
 
 B.Tech CS (AI) student at JEC Kukas, Jaipur. I enjoy solving DSA problems and building web projects, and I'm aiming for a software engineering career.
