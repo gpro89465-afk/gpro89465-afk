@@ -14,6 +14,6 @@ B.Tech CS (AI) student at JEC Kukas, Jaipur. I enjoy solving DSA problems and bu
 
 ## Projects
 - [Task Command Center](https://github.com/gpro89465-afk/Task-tracker): a personal productivity tracker with daily goals, streaks and reports ([live demo](https://gpro89465-afk.github.io/Task-tracker/))
-
+- [DSA Solutions](https://github.com/gpro89465-afk/DSA-solutions): my C++ solutions to DSA problems, organised by topic.
 ## Contact
 - Email: aksh.55949@gmail.com
