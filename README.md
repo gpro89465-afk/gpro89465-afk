@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Akshat
 
-<!--
-**gpro89465-afk/gpro89465-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CS (AI) student at JEC Kukas, Jaipur. I enjoy solving DSA problems and building web projects, and I'm aiming for a software engineering career.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Practising DSA regularly
+- Improving my Task Command Center project (planning a backend and database)
+- Learning data analysis through Google Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming:** C, C++, OOP, data structures and algorithms
+- **Web:** HTML, CSS, JavaScript
+- **AI:** Prompt engineering, generative AI, LLM and RAG concepts
+
+## Projects
+- [Task Command Center](https://github.com/gpro89465-afk/Task-tracker): a personal productivity tracker with daily goals, streaks and reports ([live demo](https://gpro89465-afk.github.io/Task-tracker/))
+
+## Contact
+- Email: aksh.55949@gmail.com
