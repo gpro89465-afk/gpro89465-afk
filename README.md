@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="profile_banner.png" alt="Akshat Mohriya banner" width="100%"/>
 
 <h3>B.Tech CS (AI) student at JEC Kukas, Jaipur &nbsp;|&nbsp; Building towards a software engineering career</h3>
 
