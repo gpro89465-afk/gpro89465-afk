@@ -1,12 +1,14 @@
+<div align="center">
+
+<img src="banner.png" alt="Akshat Mohriya banner" width="100%"/>
 
 <h3>B.Tech CS (AI) student at JEC Kukas, Jaipur &nbsp;|&nbsp; Building towards a software engineering career</h3>
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/DSA-Practising-8250df?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/LeetCode-Started-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
@@ -23,7 +25,7 @@
 
 ## About Me
 
-I'm a second-year **B.Tech CS (AI)** student at **JEC Kukas, Jaipur**. I enjoy solving DSA problems in **C++**, building web projects, and turning ideas into working software. My goal is a **software engineering** career, and I'm putting in the work step by step: practising DSA, building real projects, and learning in public here on GitHub.
+I'm a second-year **B.Tech CS (AI)** student at **JEC Kukas, Jaipur**. I enjoy solving DSA problems in **C++** and I'm building towards a **software engineering** career, one step at a time: practising DSA, working on projects, and learning in public here on GitHub.
 
 ---
 
@@ -52,9 +54,9 @@ flowchart LR
 
 ## Featured Projects
 
-| Project | What it does | Tech |
+| Project | What it does | Built with |
 |---|---|---|
-| [**Task Command Center**](https://github.com/gpro89465-afk/Task-tracker) ([live demo](https://gpro89465-afk.github.io/Task-tracker/)) | Productivity tracker with task categories, priorities, estimated hours, daily goals, streaks and a reports page with analytics | HTML, CSS, JavaScript |
+| [**Task Command Center**](https://github.com/gpro89465-afk/Task-tracker) ([live demo](https://gpro89465-afk.github.io/Task-tracker/)) | Productivity tracker with task categories, priorities, estimated hours, daily goals, streaks and a reports page with analytics | HTML, CSS, JavaScript, built in VS Code with Claude as an AI coding assistant |
 | [**DSA Solutions**](https://github.com/gpro89465-afk/DSA-solutions) | My C++ solutions to DSA problems, organised by topic, with approach and complexity noted in every file | C++ |
 
 ### How Task Command Center works
@@ -73,15 +75,15 @@ flowchart TD
 
 ---
 
-## Tech Stack
+## Skills
 
-| Area | Skills |
+| Area | Details |
 |---|---|
 | **Programming** | C, C++, Object-Oriented Programming, Data Structures and Algorithms |
-| **Web** | HTML, CSS, JavaScript, backend and website development |
 | **AI** | Prompt engineering, generative AI, LLM and RAG concepts |
-| **Tools** | Git, GitHub, VS Code |
-| **Currently learning** | Data analysis fundamentals (Google Skills) |
+| **Tools** | GitHub, VS Code |
+| **Building with AI assistance** | Web apps (HTML, CSS, JavaScript) using Claude in VS Code |
+| **Currently learning** | Git, data analysis fundamentals (Google Skills) |
 
 ---
 
@@ -101,15 +103,15 @@ flowchart TD
 
 - Solving DSA problems in C++ and publishing them in [DSA Solutions](https://github.com/gpro89465-afk/DSA-solutions)
 - Practising on LeetCode
-- Upgrading Task Command Center with a backend and database
-- Learning data analysis through Google Skills
+- Learning Git properly and data analysis through Google Skills
+- Planning a backend and database upgrade for Task Command Center
 
 ---
 
 ## Goals for 2027
 
 - [ ] Solve 100+ DSA problems
-- [ ] Build a full-stack project with a backend and database
+- [ ] Build a project with a backend and database
 - [ ] Land a software engineering internship
 - [ ] Take part in more hackathons and coding contests
 
