@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a second-year **B.Tech CS (AI)** student at **JEC Kukas, Jaipur**. I enjoy solving DSA problems in **C++** and I'm building towards a **software engineering** career, one step at a time: practising DSA, working on projects, and learning in public here on GitHub.
+I'm a second-year **B.Tech CS (AI)** student at **JEC Kukas, Jaipur**. I enjoy solving DSA problems in **C++** and I'm building towards a **software engineering** career, one step at a time: practising DSA, planning projects I can write and explain myself, and learning in public here on GitHub.
 
 ---
 
@@ -33,9 +33,9 @@ I'm a second-year **B.Tech CS (AI)** student at **JEC Kukas, Jaipur**. I enjoy s
 
 ```mermaid
 flowchart LR
-    A["C++ and OOP<br/>(done)"] --> B["DSA practice<br/>(daily)"]
+    A["C++ and OOP<br/>(done)"] --> B["DSA practice<br/>(in progress)"]
     B --> C["LeetCode<br/>(started)"]
-    C --> D["Backend projects<br/>(next)"]
+    C --> D["My own C++ project<br/>(next)"]
     D --> E["Internship"]
     E --> F["Software Engineer"]
 
@@ -52,26 +52,13 @@ flowchart LR
 
 ---
 
-## Featured Projects
+## Featured Work
 
-| Project | What it does | Built with |
+| Project | What it is | Built with |
 |---|---|---|
-| [**Task Command Center**](https://github.com/gpro89465-afk/Task-tracker) ([live demo](https://gpro89465-afk.github.io/Task-tracker/)) | Productivity tracker with task categories, priorities, estimated hours, daily goals, streaks and a reports page with analytics | HTML, CSS, JavaScript, built in VS Code with Claude as an AI coding assistant |
 | [**DSA Solutions**](https://github.com/gpro89465-afk/DSA-solutions) | My C++ solutions to DSA problems, organised by topic, with approach and complexity noted in every file | C++ |
 
-### How Task Command Center works
-
-```mermaid
-flowchart TD
-    U(["User"]) --> I["Dashboard<br/>index.html + app.js"]
-    I -->|"add tasks, set daily goal"| S[("Browser storage")]
-    S --> R["Reports page<br/>reports.html + reports.js"]
-    R --> X["Analytics: productive days,<br/>best day, best task"]
-    S <-->|"export / import"| B["Backup file"]
-    I --> K["Score and streak tracking"]
-```
-
-**Next upgrade:** adding a real backend with a database and user accounts.
+**Next:** a project in C++ that I design, write and can explain end to end. It will be added here when it's ready.
 
 ---
 
@@ -82,7 +69,6 @@ flowchart TD
 | **Programming** | C, C++, Object-Oriented Programming, Data Structures and Algorithms |
 | **AI** | Prompt engineering, generative AI, LLM and RAG concepts |
 | **Tools** | GitHub, VS Code |
-| **Building with AI assistance** | Web apps (HTML, CSS, JavaScript) using Claude in VS Code |
 | **Currently learning** | Git, data analysis fundamentals (Google Skills) |
 
 ---
@@ -103,15 +89,15 @@ flowchart TD
 
 - Solving DSA problems in C++ and publishing them in [DSA Solutions](https://github.com/gpro89465-afk/DSA-solutions)
 - Practising on LeetCode
-- Learning Git properly and data analysis through Google Skills
-- Planning a backend and database upgrade for Task Command Center
+- Learning Git properly and data analysis fundamentals through Google Skills
+- Planning my next project in C++
 
 ---
 
 ## Goals for 2027
 
 - [ ] Solve 100+ DSA problems
-- [ ] Build a project with a backend and database
+- [ ] Build and finish projects of my own, starting with one in C++
 - [ ] Land a software engineering internship
 - [ ] Take part in more hackathons and coding contests
 
